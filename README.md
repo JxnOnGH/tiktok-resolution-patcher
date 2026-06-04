@@ -19,10 +19,6 @@ This script directly manipulates the binary data of the video file, allowing you
 
 Simply download or copy the `patch_resolution.py` script into your project directory. No additional packages are required.
 
-```bash
-git clone <your-repository-url>
-cd <repository-folder>
-```
 ## Usage
 
 Run the script from your terminal or command prompt by providing the required input, output, and scale parameters.
